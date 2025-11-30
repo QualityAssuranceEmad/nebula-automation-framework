@@ -12,6 +12,7 @@ public class HomePage {
     }
     //Locators
     private By siteTitle= By.id("site-title");
+    private By homeButton=By.id("nav-home");
     //Actions
 
     //Validations
