@@ -1,0 +1,51 @@
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.FilesUtils] - Directory created successfully at test-output/screenshots/
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.FilesUtils] - Directory created successfully at test-output/recordings/
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.listeners.TestNGListeners] - Directories created
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.utils.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [30-11-2025 08:07:13] [main] [com.NebulaDemo.listeners.TestNGListeners] - Properties loaded
+[INFO] - [30-11-2025 08:07:14] [main] [com.NebulaDemo.utils.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [30-11-2025 08:07:14] [main] [com.NebulaDemo.utils.reports.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [30-11-2025 08:07:14] [main] [com.NebulaDemo.listeners.TestNGListeners] - Allure environment set
+[INFO] - [30-11-2025 08:07:15] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Administrator\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO] - [30-11-2025 08:07:15] [main] [com.NebulaDemo.drivers.GuiDrivers] - Setting up WebDriver for browser: Edge
+[INFO] - [30-11-2025 08:07:15] [main] [com.NebulaDemo.drivers.GuiDrivers] - Initializing WebDriver for browser: EDGE
+[DEBUG] - [30-11-2025 08:07:15] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Using WebDriverManager 6.3.3
+[INFO] - [30-11-2025 08:07:15] [main] [com.NebulaDemo.utils.reports.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [30-11-2025 08:07:15] [main] [com.NebulaDemo.listeners.TestNGListeners] - Allure environment set
+[INFO] - [30-11-2025 08:07:16] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Administrator\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[DEBUG] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.cache.ResolutionCache] - Resolution edge=142 in cache (valid until 08:38:11 30/11/2025 AST)
+[DEBUG] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.cache.ResolutionCache] - Resolution edge142=142.0.3595.94 in cache (valid until 17:34:48 30/11/2025 AST)
+[INFO] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Using msedgedriver 142.0.3595.94 (resolved driver for Edge 142)
+[INFO] - [30-11-2025 08:07:17] [main] [com.NebulaDemo.drivers.GuiDrivers] - Setting up WebDriver for browser: Edge
+[DEBUG] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Driver msedgedriver 142.0.3595.94 found in cache
+[INFO] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\142.0.3595.94\msedgedriver.exe
+[INFO] - [30-11-2025 08:07:17] [main] [com.NebulaDemo.drivers.GuiDrivers] - Initializing WebDriver for browser: EDGE
+[DEBUG] - [30-11-2025 08:07:17] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Using WebDriverManager 6.3.3
+[DEBUG] - [30-11-2025 08:07:18] [main] [io.github.bonigarcia.wdm.cache.ResolutionCache] - Resolution edge=142 in cache (valid until 08:38:11 30/11/2025 AST)
+[DEBUG] - [30-11-2025 08:07:18] [main] [io.github.bonigarcia.wdm.cache.ResolutionCache] - Resolution edge142=142.0.3595.94 in cache (valid until 17:34:48 30/11/2025 AST)
+[INFO] - [30-11-2025 08:07:18] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Using msedgedriver 142.0.3595.94 (resolved driver for Edge 142)
+[DEBUG] - [30-11-2025 08:07:18] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Driver msedgedriver 142.0.3595.94 found in cache
+[INFO] - [30-11-2025 08:07:18] [main] [io.github.bonigarcia.wdm.WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\Administrator\.cache\selenium\msedgedriver\win64\142.0.3595.94\msedgedriver.exe
+[INFO] - [30-11-2025 08:07:22] [main] [com.NebulaDemo.utils.actions.BrowserActions] - Navigated to URL: https://nebula-test-lab1.vercel.app/
+[INFO] - [30-11-2025 08:07:22] [main] [com.NebulaDemo.utils.actions.BrowserActions] - No extension tabs found - only one window is open
+[INFO] - [30-11-2025 08:07:23] [main] [com.NebulaDemo.listeners.TestNGListeners] - Test Case testLogin started
+[DEBUG] - [30-11-2025 08:07:23] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['userName']
+[DEBUG] - [30-11-2025 08:07:23] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['password']
+[INFO] - [30-11-2025 08:07:23] [main] [com.NebulaDemo.utils.actions.ElementActions] - Typed text: 'trainer' into element: By.id: username-input
+[INFO] - [30-11-2025 08:07:23] [main] [com.NebulaDemo.utils.actions.ElementActions] - Typed text: 'selenium123' into element: By.id: password-input
+[INFO] - [30-11-2025 08:07:24] [main] [com.NebulaDemo.utils.actions.BrowserActions] - Navigated to URL: https://nebula-test-lab1.vercel.app/
+[INFO] - [30-11-2025 08:07:24] [main] [com.NebulaDemo.utils.actions.BrowserActions] - No extension tabs found - only one window is open
+[INFO] - [30-11-2025 08:07:24] [main] [com.NebulaDemo.utils.actions.ElementActions] - Clicked on element: By.id: btn-login
+[INFO] - [30-11-2025 08:07:24] [main] [com.NebulaDemo.listeners.TestNGListeners] - Test Case testLogin started
+[DEBUG] - [30-11-2025 08:07:25] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['userName']
+[DEBUG] - [30-11-2025 08:07:25] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['password']
+[INFO] - [30-11-2025 08:07:25] [main] [com.NebulaDemo.utils.actions.ElementActions] - Retrieved text: 'Nebula TestLab' from element: By.id: site-title
+[INFO] - [30-11-2025 08:07:25] [main] [com.NebulaDemo.utils.actions.ElementActions] - Typed text: 'trainer' into element: By.id: username-input
+[INFO] - [30-11-2025 08:07:25] [main] [com.NebulaDemo.utils.actions.ElementActions] - Typed text: 'selenium123' into element: By.id: password-input
+[INFO] - [30-11-2025 08:07:25] [main] [com.NebulaDemo.media.ScreenshotsManager] - Capturing Screenshot Succeeded
+[INFO] - [30-11-2025 08:07:25] [main] [com.NebulaDemo.utils.actions.ElementActions] - Clicked on element: By.id: btn-login
