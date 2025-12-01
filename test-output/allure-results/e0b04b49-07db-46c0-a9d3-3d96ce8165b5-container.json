@@ -1,1 +1,0 @@
-{"uuid":"e0b04b49-07db-46c0-a9d3-3d96ce8165b5","name":"com.NebulaDemo.tests.LoginTest","children":["d44f37c2-cf25-4ef5-a719-0b9f905fea62"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764479236924,"stop":1764479237018}],"afters":[],"start":1764479236739,"stop":1764479248208}

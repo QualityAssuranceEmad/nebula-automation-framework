@@ -45,7 +45,8 @@ public class ChromeFactory extends AbstractDriver {
         options.setAcceptInsecureCerts(true);
 
         // REMOVED THE PROBLEMATIC EXTENSIONS:
-        // options.addExtensions(haramBlurExtension); // COMMENTED OUT
+        if (PropertyReader.getProperty("execution").equalsIgnoreCase("enabled"))
+            options.addExtensions(haramBlurExtension); // COMMENTED OUT
 
         switch (PropertyReader.getProperty("executionType")) {
             case "LocalHeadless" -> options.addArguments("--headless=new");

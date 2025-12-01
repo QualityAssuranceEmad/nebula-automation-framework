@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3179","testLogin","Automation Exercise","2025-11-30","passed","2025-11-30","com.NebulaDemo.tests.LoginTest","NebulaTeatAutomation","com.NebulaDemo.tests.LoginTest","testLogin"
+"","10548","testLogin","Automation Exercise","2025-11-30","broken","2025-11-30","com.NebulaDemo.tests.LoginTest","Surefire test","com.NebulaDemo.tests.LoginTest","testLogin"
